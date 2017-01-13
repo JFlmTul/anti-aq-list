@@ -10,7 +10,7 @@ If you are active on this social network, please pay attention when you follow t
 
 [@魔王建斌](http://weibo.com/ILoveHonoka)
 
-[@舞凌_她们是一辈子的宝物]([http://weibo.com/u/2865095222)
+[@舞凌_她们是一辈子的宝物](http://weibo.com/u/2865095222)
 
 [@乖__](http://weibo.com/u/5998093376)
 
