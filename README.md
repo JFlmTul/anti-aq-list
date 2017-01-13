@@ -8,18 +8,18 @@ You are most welcomed to contribute to this list by forking it and initiate a ne
 
 ## List
 
-[@真田凜](http://weibo.com/u/3149017162)
+* [@真田凜](http://weibo.com/u/3149017162)
 
-[@魔王建斌](http://weibo.com/ILoveHonoka)
+* [@魔王建斌](http://weibo.com/ILoveHonoka)
 
-[@舞凌_她们是一辈子的宝物](http://weibo.com/u/2865095222)
+* [@舞凌_她们是一辈子的宝物](http://weibo.com/u/2865095222)
 
-[@乖__](http://weibo.com/u/5998093376)
+* [@乖__](http://weibo.com/u/5998093376)
 
-[@NittaKimi_恵海人](http://weibo.com/kt19900619)
+* [@NittaKimi_恵海人](http://weibo.com/kt19900619)
 
-[@黑水舰队](http://weibo.com/yuan930101)
+* [@黑水舰队](http://weibo.com/yuan930101)
 
-[@熊面爱吃小浣熊面](http://www.weibo.com/u/5511897939)
+* [@熊面爱吃小浣熊面](http://www.weibo.com/u/5511897939)
 
-[@KennyKusuda](weibo.com/1913079000)
+* [@KennyKusuda](weibo.com/1913079000)
