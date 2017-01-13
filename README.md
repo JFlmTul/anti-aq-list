@@ -14,7 +14,7 @@ Please be aware that this repository lists users who show absolute opposing atti
 
 You are suggested to provide any offensive content they post when you initiate a new pull request or submit a new issue.
 
-Remember: **It is always subjective when you are trying to translate others' speech.**
+Remember: **It is always subjective when you translate others' statement. What you think they mean to say does not equal to what they actually mean to say.**
 
 ## List
 
