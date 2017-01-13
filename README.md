@@ -1,6 +1,6 @@
 # anti-aq-list
 
-This repository lists some users on Chinese social network - Weibo, who have a general characterisitic of opposing the development of *Project LoveLive! Sunshine!!* or general insult to aforementioned project and their fans.
+This repository lists some users on Chinese social network - Weibo, who have a general characteristic of opposing the development of Project LoveLive! Sunshine!! or general insult to the aforementioned project and their fans.
 
 If you are active on this social network, please pay attention when you follow them as they post content that might irritate you or just plain stupid.
 
