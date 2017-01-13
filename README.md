@@ -6,6 +6,8 @@ If you are active on this social network, please pay attention when you follow t
 
 You are most welcomed to contribute to this list by forking it and initiate a new pull request or add a new issue if you don't know how to use GitHub or have no knowledge about Markdown.
 
+Visit [this](https://ahy.space/llsswiki/index.php?title=%E6%81%B6%E4%BF%97:%E5%90%8D%E5%8D%95) site for more info about what stupid things they did.
+
 ## List
 
 * [@真田凜](http://weibo.com/u/3149017162)
