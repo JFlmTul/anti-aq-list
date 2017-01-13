@@ -1,12 +1,18 @@
 # anti-aq-list
 
-This repository lists some users on Chinese social network - Weibo, who have a general characteristic of opposing the development of Project LoveLive! Sunshine!! or general insult to the aforementioned project and their fans.
+This repository lists some users on Chinese social network - Weibo, who have a general characteristic of, include but not limited to opposing the development of Project LoveLive! Sunshine!! or general insult to the aforementioned project and their fans.
 
 If you are active on this social network, please pay attention when you follow them as they post content that might irritate you or just plain stupid.
 
-You are most welcomed to contribute to this list by forking it and initiate a new pull request or add a new issue if you don't know how to use GitHub or have no knowledge about Markdown.
+You are most welcomed to contribute to this list by forking it and initiate a new pull request or submit a new issue if you don't know how to use GitHub or have no knowledge about Markdown.
 
 Visit [this](https://ahy.space/llsswiki/index.php?title=%E6%81%B6%E4%BF%97:%E5%90%8D%E5%8D%95) site for more info about what stupid things they did.
+
+## When you contribute to this repository
+
+Please be aware that this repository lists users who show absolute opposing attitude (include but not limited to posting abusive content) to the aforementioned project and their fans.
+
+You are suggested to provide any offensive content they post when you initiate a new pull request or submit a new issue.
 
 ## List
 
