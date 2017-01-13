@@ -25,3 +25,7 @@ Visit [this](https://ahy.space/llsswiki/index.php?title=%E6%81%B6%E4%BF%97:%E5%9
 * [@熊面爱吃小浣熊面](http://www.weibo.com/u/5511897939)
 
 * [@KennyKusuda](weibo.com/1913079000)
+
+* [@四十路大叔_Pile日本武道館参战](http://weibo.com/u/1989601447)
+
+* [@平沢聡07_柏梓文P](http://weibo.com/u/1932009283)
