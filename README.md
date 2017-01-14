@@ -37,3 +37,7 @@ Remember: **It is always subjective when you translate others' statement. What y
 * [@四十路大叔_Pile日本武道館参战](http://weibo.com/u/1989601447)
 
 * [@平沢聡07_柏梓文P](http://weibo.com/u/1932009283)
+
+* [@三森梨彩_武道馆厨](http://weibo.com/Mimorinsky)
+
+* [@孤独星空传奇X](http://weibo.com/u/2934781773)
