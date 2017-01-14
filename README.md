@@ -32,7 +32,7 @@ Remember: **It is always subjective when you translate others' statement. What y
 
 * [@熊面爱吃小浣熊面](http://www.weibo.com/u/5511897939)
 
-* [@KennyKusuda](weibo.com/1913079000)
+* [@KennyKusuda](http://weibo.com/u/1913079000)
 
 * [@四十路大叔_Pile日本武道館参战](http://weibo.com/u/1989601447)
 
